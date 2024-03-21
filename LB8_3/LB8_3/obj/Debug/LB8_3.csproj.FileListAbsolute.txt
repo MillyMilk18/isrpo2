@@ -1,0 +1,21 @@
+C:\Users\429194-10\Desktop\Лаба1\LB8_3\LB8_3\obj\Debug\LB8_3.csprojAssemblyReference.cache
+C:\Users\429194-10\Desktop\Лаба1\LB8_3\LB8_3\obj\Debug\LB8_3.csproj.CoreCompileInputs.cache
+C:\Users\429194-10\Desktop\Лаба1\LB8_3\LB8_3\bin\Debug\LB8_3.exe.config
+C:\Users\429194-10\Desktop\Лаба1\LB8_3\LB8_3\bin\Debug\LB8_3.exe
+C:\Users\429194-10\Desktop\Лаба1\LB8_3\LB8_3\bin\Debug\LB8_3.pdb
+C:\Users\429194-10\Desktop\Лаба1\LB8_3\LB8_3\obj\Debug\LB8_3.exe
+C:\Users\429194-10\Desktop\Лаба1\LB8_3\LB8_3\obj\Debug\LB8_3.pdb
+Z:\ИСРПО\Лаба1\LB8_3\LB8_3\bin\Debug\LB8_3.exe.config
+Z:\ИСРПО\Лаба1\LB8_3\LB8_3\bin\Debug\LB8_3.exe
+Z:\ИСРПО\Лаба1\LB8_3\LB8_3\bin\Debug\LB8_3.pdb
+Z:\ИСРПО\Лаба1\LB8_3\LB8_3\obj\Debug\LB8_3.csproj.AssemblyReference.cache
+Z:\ИСРПО\Лаба1\LB8_3\LB8_3\obj\Debug\LB8_3.csproj.CoreCompileInputs.cache
+Z:\ИСРПО\Лаба1\LB8_3\LB8_3\obj\Debug\LB8_3.exe
+Z:\ИСРПО\Лаба1\LB8_3\LB8_3\obj\Debug\LB8_3.pdb
+E:\4\ИСРПО\2 семестр\Лаба1\LB8_3\LB8_3\bin\Debug\LB8_3.exe.config
+E:\4\ИСРПО\2 семестр\Лаба1\LB8_3\LB8_3\bin\Debug\LB8_3.exe
+E:\4\ИСРПО\2 семестр\Лаба1\LB8_3\LB8_3\bin\Debug\LB8_3.pdb
+E:\4\ИСРПО\2 семестр\Лаба1\LB8_3\LB8_3\obj\Debug\LB8_3.csprojAssemblyReference.cache
+E:\4\ИСРПО\2 семестр\Лаба1\LB8_3\LB8_3\obj\Debug\LB8_3.csproj.CoreCompileInputs.cache
+E:\4\ИСРПО\2 семестр\Лаба1\LB8_3\LB8_3\obj\Debug\LB8_3.exe
+E:\4\ИСРПО\2 семестр\Лаба1\LB8_3\LB8_3\obj\Debug\LB8_3.pdb
